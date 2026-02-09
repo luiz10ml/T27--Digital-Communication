@@ -80,8 +80,8 @@ Recomenda-se acompanhar as atualizações do repositório ao longo do semestre.
    São Paulo, Brasil: Editora Érica, 2012.
 
 
-<img src="/Figures/Logo.png" width="100px"> 
+<img src="/Figures/Logo.png" width="200px"> 
 
 Prof. Dr. Luiz Augusto Melo Pereira
 
-luiz.melo@inatel.br](https
+luiz.melo@inatel.br
