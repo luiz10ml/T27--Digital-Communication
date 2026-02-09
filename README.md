@@ -19,37 +19,44 @@ Recomenda-se aos alunos que utilizem este material como apoio ao estudo, não su
 
 O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado através dos links abaixo.
 
-1. [Aula 1- Introdução aos sistemas de comunicação](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Introdu%C3%A7%C3%A3o.pdf)
+1. [Introdução aos sistemas de comunicação](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%201-%20Introdu%C3%A7%C3%A3o%20aos%20sistemas%20de%20comunica%C3%A7%C3%A3o.pdf)
 
-2. [Aula 2- Modulação analógica](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Regress%C3%A3o_Linear.pdf)
+2. [Modulação analógica](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Regress%C3%A3o_Linear.pdf)
 
-3. [Aula 3- Amostragem e Reconstrução](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Regress%C3%A3o_para_Modelos_N%C3%A3o_Lineares.pdf)
+3. [Amostragem e Reconstrução](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%203-%20Amostragem%20e%20Reconstru%C3%A7%C3%A3o.pdf)
 
-4. [Aula 4- Quantização e Codificação](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Classificadores.pdf)
+4. [Quantização e Codificação](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%204-%20Quantiza%C3%A7%C3%A3o%20e%20Codifica%C3%A7%C3%A3o.pdf)
 
-5. [Aula 5- Quantização Uniforme e não Uniforme](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_kNN.pdf)
+5. [Quantização Uniforme e não Uniforme](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%206-%20Modula%C3%A7%C3%A3o%20PCM%20Diferencial%20e%20Modula%C3%A7%C3%A3o%20Delta.pdf)
 
-6. [Aula 6- Modulação PCM Diferencial e Modulação Delta](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Decision_Trees.pdf)
+6. [Modulação PCM Diferencial e Modulação Delta](#material-em-preparação)
 
-7. [Aula 7- Introdução à Transmissão Digital](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Ensemble_Learning_and_Random_Forests.pdf)
+7. [Introdução à Transmissão Digital](#material-em-preparação)
 
-8. [Aula 8- MPAM](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_kMeans.pdf)
+8. [MPAM](#material-em-preparação)
 
-9. [Aula 9- Ruído Térmico](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Redes_Neurais_Artificiais_parte_1.pdf)
+9. [Ruído Térmico](#material-em-preparação)
 
-10. [Aula 10- Filtro Casado e Correlator](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Redes_Neurais_Artificiais_parte_2.pdf)
+10. [Filtro Casado e Correlator](#material-em-preparação)
 
-11. [Aula 11- Análise Probabilidade de Erro (Parte 1)](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Treinando_RNAs_Com_tensorflow.pdf)
+11. [Análise Probabilidade de Erro (Parte 1)](#material-em-preparação)
 
-12. [Aula 12- Análise Probabilidade de Erro (Parte 2)](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_M%C3%A1quina_de_Vetores_de_Suporte.pdf)
+12. [Análise Probabilidade de Erro (Parte 2)](#material-em-preparação)
 
-13. [Aula 13- Interferência Intersimbólica (Parte 1)](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Redu%C3%A7%C3%A3o_da_Dimensionalidade.pdf)
+13. [Interferência Intersimbólica (Parte 1)](#material-em-preparação)
 
-14. [Aula 14- Interferência Intersimbólica (Parte 2)](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Redu%C3%A7%C3%A3o_da_Dimensionalidade.pdf)
+14. [Interferência Intersimbólica (Parte 2)](#material-em-preparação)
 
-15. [Aula 15- Diagrama de Olho](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Redu%C3%A7%C3%A3o_da_Dimensionalidade.pdf)
+15. [Diagrama de Olho](#material-em-preparação)
 
-16. [Aula 16- Equalização Adaptativa](https://github.com/luiz10ml/tp555-ml/blob/main/slides/TP555_Redu%C3%A7%C3%A3o_da_Dimensionalidade.pdf)
+16. [Equalização Adaptativa](#material-em-preparação)
+
+## 🚧 Material em Preparação
+
+O material desta aula encontra-se em fase de elaboração e será disponibilizado neste repositório assim que finalizado.
+
+Recomenda-se acompanhar as atualizações do repositório ao longo do semestre.
+
 
 
 ## ⚠️ Avisos Importantes
@@ -77,4 +84,4 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 Luiz Augusto Melo Pereira
 
-luiz.melo@inatel.br
+luiz.melo@inatel.br](https
