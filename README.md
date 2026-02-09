@@ -57,7 +57,7 @@ O material desta aula encontra-se em fase de elaboração e será disponibilizad
 
 Recomenda-se acompanhar as atualizações do repositório ao longo do semestre.
 
-
+---
 
 ## ⚠️ Avisos Importantes
 
