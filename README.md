@@ -29,7 +29,7 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 5. [Quantização Uniforme e não Uniforme](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%206-%20Modula%C3%A7%C3%A3o%20PCM%20Diferencial%20e%20Modula%C3%A7%C3%A3o%20Delta.pdf)
 
-6. [Modulação PCM Diferencial e Modulação Delta](#material-em-preparação)
+6. [Modulação PCM Diferencial e Modulação Delta](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%206-%20Modula%C3%A7%C3%A3o%20PCM%20Diferencial%20e%20Modula%C3%A7%C3%A3o%20Delta.pdf)
 
 7. [Introdução à Transmissão Digital](#material-em-preparação)
 
