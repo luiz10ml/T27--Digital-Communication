@@ -51,6 +51,8 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 16. [Equalização Adaptativa](#material-em-preparação)
 
+---
+
 ## Material em Preparação
 
 O material desta aula encontra-se em fase de elaboração e será disponibilizado neste repositório assim que finalizado.
