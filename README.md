@@ -31,11 +31,11 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 6. [Modulação PCM Diferencial e Modulação Delta](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%206-%20Modula%C3%A7%C3%A3o%20PCM%20Diferencial%20e%20Modula%C3%A7%C3%A3o%20Delta.pdf)
 
-7. [Introdução à Transmissão Digital](#material-em-preparação)
+7. [Introdução à Transmissão Digital](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%207-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Transmiss%C3%A3o%20Digital.pdf)
 
-8. [MPAM](#material-em-preparação)
+8. [MPAM](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%208-%20MPAM.pdf)
 
-9. [Ruído Térmico](#material-em-preparação)
+9. [Ruído Térmico](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%209-%20Ru%C3%ADdo%20T%C3%A9rmico.pdf)
 
 10. [Filtro Casado e Correlator](#material-em-preparação)
 
