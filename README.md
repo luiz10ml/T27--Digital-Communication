@@ -37,7 +37,7 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 9. [Ruído Térmico](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%209-%20Ru%C3%ADdo%20T%C3%A9rmico.pdf)
 
-10. [Filtro Casado e Correlator](#material-em-preparação)
+10. [Filtro Casado e Correlator](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2010-%20Filtro%20Casado%20e%20Correlator.pdf)
 
 11. [Análise Probabilidade de Erro (Parte 1)](#material-em-preparação)
 
