@@ -39,9 +39,9 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 10. [Filtro Casado e Correlator](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2010-%20Filtro%20Casado%20e%20Correlator.pdf)
 
-11. [Análise Probabilidade de Erro (Parte 1)](#material-em-preparação)
+11. [Análise Probabilidade de Erro (Parte 1)](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2011-%20An%C3%A1lise%20de%20Probabilidade%20de%20erro-%20Parte%201.pdf)
 
-12. [Análise Probabilidade de Erro (Parte 2)](#material-em-preparação)
+12. [Análise Probabilidade de Erro (Parte 2)](#material-em-preparação) 
 
 13. [Interferência Intersimbólica (Parte 1)](#material-em-preparação)
 
