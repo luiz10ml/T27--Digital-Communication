@@ -43,9 +43,9 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 12. [Análise Probabilidade de Erro (Parte 2)](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2012-%20An%C3%A1lise%20de%20Probabilidade%20de%20erro-%20Parte%202.pdf) 
 
-13. [Interferência Intersimbólica (Parte 1)](#material-em-preparação)
+13. [Interferência Intersimbólica (Parte 1)](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2013-%20Interfer%C3%AAncia%20Intersimb%C3%B3lica%20-%20Parte%201.pdf)
 
-14. [Interferência Intersimbólica (Parte 2)](#material-em-preparação)
+14. [Interferência Intersimbólica (Parte 2)](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2014-%20Interfer%C3%AAncia%20Intersimb%C3%B3lica%20-%20Parte%202.pdf)
 
 15. [Diagrama de Olho](#material-em-preparação)
 
