@@ -47,7 +47,7 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 14. [Interferência Intersimbólica (Parte 2)](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2014-%20Interfer%C3%AAncia%20Intersimb%C3%B3lica%20-%20Parte%202.pdf)
 
-15. [Diagrama de Olho](#material-em-preparação)
+15. [Diagrama de Olho](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2015-%20Diagrama%20de%20olho.pdf)
 
 16. [Equalização Adaptativa](#material-em-preparação)
 
