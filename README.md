@@ -49,15 +49,8 @@ O material das aulas pode ser encontrado na pasta **Slides** e pode ser acessado
 
 15. [Diagrama de Olho](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2015-%20Diagrama%20de%20olho.pdf)
 
-16. [Equalização Adaptativa](#material-em-preparação)
+16. [Equalização Adaptativa](https://github.com/luiz10ml/T27--Digital-Communication/blob/main/Slides/T27-%20Aula%2016-%20Equaliza%C3%A7%C3%A3o%20adaptativa.pdf)
 
----
-
-## Material em Preparação
-
-O material desta aula encontra-se em fase de elaboração e será disponibilizado neste repositório assim que finalizado.
-
-Recomenda-se acompanhar as atualizações do repositório ao longo do semestre.
 
 ---
 
